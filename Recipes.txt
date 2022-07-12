@@ -3,6 +3,7 @@ Welcome to My Kitchen!
 Kheer
 Pasta
 Maggie
+Pizza
 
 Tell me what you want to eat
 
