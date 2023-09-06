@@ -1,0 +1,5 @@
+{{#user}}
+Name: Twinkal Patel
+Skills: HTML, CSS, JS, Next.js, React.js, Typescript, Tailwind CSS.
+Email: twinkal.work@outlook.com
+{{/user}}
